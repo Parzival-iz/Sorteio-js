@@ -28,6 +28,5 @@ Este projeto é uma aplicação web simples que realiza sorteios de números ale
 - Implementar animações para o processo de sorteio.
 - Permitir a importação de listas de números a partir de arquivos.
 
-  ___
-
+  
   📌 **Desenvolvido por [Saymon Viana](https://github.com/Parzival-iz)** 💻🚀
